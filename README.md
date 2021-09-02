@@ -1,6 +1,6 @@
 <div>
   <h1>Leandro Dias de Carvalho</h1>
-  <p> Estudante de Progragramação Front-End</p>
+  <p> Estudante  Front-End</p>
 </div>
 
 <div>
