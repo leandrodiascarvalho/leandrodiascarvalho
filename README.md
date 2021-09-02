@@ -1,6 +1,6 @@
 <div>
   <h1>Leandro Dias de Carvalho</h1>
-  <p> Programador Front-End Jr.</p>
+  <p> Programador Front-End</p>
 </div>
 
 <div>
