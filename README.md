@@ -1,10 +1,11 @@
-<div>
-  <h1>Leandro Dias de Carvalho</h1>
-  <p> Programador Front-End</p>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Leandro+Dias+de+Carvalho+GitHub+Profile)](https://git.io/typing-svg)
+
+  
+  ## Hi there I'm Leandro Dias de Carvalho <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+
 
 <div>
-  <a href="https://github.com/leandrodiascarvalho">
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandrodiascarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrodiascarvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
